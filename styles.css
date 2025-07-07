@@ -1,0 +1,28 @@
+.body-box {
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+    margin-left: 25%;
+    margin-right: 25%;
+
+}
+.box-1 {
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid black;
+    padding: 5px;
+}
+.container-body {
+    display: flex;
+    flex-direction: column;
+}
+.post-img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 420px;
+}
+.box-1-2 {
+    border: 1px solid black;
+    padding: 5px;    
+}
