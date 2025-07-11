@@ -1,4 +1,4 @@
-# HTML Hello
+# HTML Hola
 
 El boilerplate más básico para cualquier estudiante de 4Geeks Academy, empieza tu primer sitio web desde cero.
 
